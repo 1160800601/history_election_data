@@ -1,0 +1,1127 @@
+year,state,state_po,candidate,party,candidatevotes
+1976,Alabama,AL,"Carter, Jimmy",democrat,659170
+1976,Alabama,AL,"Ford, Gerald",republican,504070
+1980,Alabama,AL,"Reagan, Ronald",republican,654192
+1980,Alabama,AL,"Carter, Jimmy",democrat,636730
+1984,Alabama,AL,"Reagan, Ronald",republican,872849
+1984,Alabama,AL,"Mondale, Walter",democrat,551899
+1988,Alabama,AL,"Bush, George H.W.",republican,815576
+1988,Alabama,AL,"Dukakis, Michael",democrat,549506
+1992,Alabama,AL,"Bush, George H.W.",republican,804283
+1992,Alabama,AL,"Clinton, Bill",democrat,690080
+1996,Alabama,AL,"Dole, Robert",republican,769044
+1996,Alabama,AL,"Clinton, Bill",democrat,662165
+2000,Alabama,AL,"Bush, George W.",republican,941173
+2000,Alabama,AL,"Gore, Al",democrat,692611
+2004,Alabama,AL,"Bush, George W.",republican,1176394
+2004,Alabama,AL,"Kerry, John",democrat,693933
+2008,Alabama,AL,"McCain, John",republican,1266546
+2008,Alabama,AL,"Obama, Barack H.",democrat,813479
+2012,Alabama,AL,"Romney, Mitt",republican,1255925
+2012,Alabama,AL,"Obama, Barack H.",democrat,795696
+2016,Alabama,AL,"Trump, Donald J.",republican,1318255
+2016,Alabama,AL,"Clinton, Hillary",democrat,729547
+1976,Alaska,AK,"Ford, Gerald",republican,71555
+1976,Alaska,AK,"Carter, Jimmy",democrat,44058
+1980,Alaska,AK,"Reagan, Ronald",republican,86112
+1980,Alaska,AK,"Carter, Jimmy",democrat,41842
+1984,Alaska,AK,"Reagan, Ronald",republican,138377
+1984,Alaska,AK,"Mondale, Walter",democrat,62007
+1988,Alaska,AK,"Bush, George H.W.",republican,119251
+1988,Alaska,AK,"Dukakis, Michael",democrat,72584
+1992,Alaska,AK,"Bush, George H.W.",republican,102000
+1992,Alaska,AK,"Clinton, Bill",democrat,78294
+1996,Alaska,AK,"Dole, Robert",republican,122746
+1996,Alaska,AK,"Clinton, Bill",democrat,80380
+2000,Alaska,AK,"Bush, George W.",republican,167398
+2000,Alaska,AK,"Gore, Al",democrat,79004
+2004,Alaska,AK,"Bush, George W.",republican,190889
+2004,Alaska,AK,"Kerry, John",democrat,111025
+2008,Alaska,AK,"McCain, John",republican,193841
+2008,Alaska,AK,"Obama, Barack H.",democrat,123594
+2012,Alaska,AK,"Romney, Mitt",republican,164676
+2012,Alaska,AK,"Obama, Barack H.",democrat,122640
+2016,Alaska,AK,"Trump, Donald J.",republican,163387
+2016,Alaska,AK,"Clinton, Hillary",democrat,116454
+1976,Arizona,AZ,"Ford, Gerald",republican,418642
+1976,Arizona,AZ,"Carter, Jimmy",democrat,295602
+1980,Arizona,AZ,"Reagan, Ronald",republican,529688
+1980,Arizona,AZ,"Carter, Jimmy",democrat,246843
+1984,Arizona,AZ,"Reagan, Ronald",republican,681416
+1984,Arizona,AZ,"Mondale, Walter",democrat,333854
+1988,Arizona,AZ,"Bush, George H.W.",republican,702541
+1988,Arizona,AZ,"Dukakis, Michael",democrat,454029
+1992,Arizona,AZ,"Bush, George H.W.",republican,572086
+1992,Arizona,AZ,"Clinton, Bill",democrat,543050
+1996,Arizona,AZ,"Clinton, Bill",democrat,653288
+1996,Arizona,AZ,"Dole, Robert",republican,622073
+2000,Arizona,AZ,"Bush, George W.",republican,781652
+2000,Arizona,AZ,"Gore, Al",democrat,685341
+2004,Arizona,AZ,"Bush, George W.",republican,1104294
+2004,Arizona,AZ,"Kerry, John",democrat,893524
+2008,Arizona,AZ,"McCain, John",republican,1230111
+2008,Arizona,AZ,"Obama, Barack H.",democrat,1034707
+2012,Arizona,AZ,"Romney, Mitt",republican,1233654
+2012,Arizona,AZ,"Obama, Barack H.",democrat,1025232
+2016,Arizona,AZ,"Trump, Donald J.",republican,1252401
+2016,Arizona,AZ,"Clinton, Hillary",democrat,1161167
+2016,Arizona,AZ,,democrat,42
+1976,Arkansas,AR,"Carter, Jimmy",democrat,498604
+1976,Arkansas,AR,"Ford, Gerald",republican,267903
+1980,Arkansas,AR,"Reagan, Ronald",republican,403164
+1980,Arkansas,AR,"Carter, Jimmy",democrat,398041
+1984,Arkansas,AR,"Reagan, Ronald",republican,534774
+1984,Arkansas,AR,"Mondale, Walter",democrat,338646
+1988,Arkansas,AR,"Bush, George H.W.",republican,466578
+1988,Arkansas,AR,"Dukakis, Michael",democrat,349237
+1992,Arkansas,AR,"Clinton, Bill",democrat,505823
+1992,Arkansas,AR,"Bush, George H.W.",republican,337324
+1996,Arkansas,AR,"Clinton, Bill",democrat,475171
+1996,Arkansas,AR,"Dole, Robert",republican,325416
+2000,Arkansas,AR,"Bush, George W.",republican,472940
+2000,Arkansas,AR,"Gore, Al",democrat,422768
+2004,Arkansas,AR,"Bush, George W.",republican,572898
+2004,Arkansas,AR,"Kerry, John",democrat,469953
+2008,Arkansas,AR,"McCain, John",republican,638017
+2008,Arkansas,AR,"Obama, Barack H.",democrat,422310
+2012,Arkansas,AR,"Romney, Mitt",republican,647744
+2012,Arkansas,AR,"Obama, Barack H.",democrat,394409
+2016,Arkansas,AR,"Trump, Donald J.",republican,684872
+2016,Arkansas,AR,"Clinton, Hillary",democrat,380494
+1976,California,CA,"Ford, Gerald",republican,3882244
+1976,California,CA,"Carter, Jimmy",democrat,3742284
+1980,California,CA,"Reagan, Ronald",republican,4522994
+1980,California,CA,"Carter, Jimmy",democrat,3082943
+1984,California,CA,"Reagan, Ronald",republican,5467009
+1984,California,CA,"Mondale, Walter",democrat,3922519
+1988,California,CA,"Bush, George H.W.",republican,5054917
+1988,California,CA,"Dukakis, Michael",democrat,4702233
+1992,California,CA,"Clinton, Bill",democrat,5121325
+1992,California,CA,"Bush, George H.W.",republican,3630574
+1996,California,CA,"Clinton, Bill",democrat,5119835
+1996,California,CA,"Dole, Robert",republican,3828381
+2000,California,CA,"Gore, Al",democrat,5861203
+2000,California,CA,"Bush, George W.",republican,4567429
+2004,California,CA,"Kerry, John",democrat,6745485
+2004,California,CA,"Bush, George W.",republican,5509826
+2008,California,CA,"Obama, Barack H.",democrat,8274473
+2008,California,CA,"McCain, John",republican,5011781
+2012,California,CA,"Obama, Barack H.",democrat,7854285
+2012,California,CA,"Romney, Mitt",republican,4839958
+2016,California,CA,"Clinton, Hillary",democrat,8753788
+2016,California,CA,"Trump, Donald J.",republican,4483810
+1976,Colorado,CO,"Ford, Gerald",republican,584278
+1976,Colorado,CO,"Carter, Jimmy",democrat,460801
+1980,Colorado,CO,"Reagan, Ronald",republican,652264
+1980,Colorado,CO,"Carter, Jimmy",democrat,368009
+1984,Colorado,CO,"Reagan, Ronald",republican,821817
+1984,Colorado,CO,"Mondale, Walter",democrat,454975
+1988,Colorado,CO,"Bush, George H.W.",republican,728177
+1988,Colorado,CO,"Dukakis, Michael",democrat,621453
+1992,Colorado,CO,"Clinton, Bill",democrat,629681
+1992,Colorado,CO,"Bush, George H.W.",republican,562850
+1996,Colorado,CO,"Dole, Robert",republican,691848
+1996,Colorado,CO,"Clinton, Bill",democrat,671152
+2000,Colorado,CO,"Bush, George W.",republican,883748
+2000,Colorado,CO,"Gore, Al",democrat,738227
+2004,Colorado,CO,"Bush, George W.",republican,1101255
+2004,Colorado,CO,"Kerry, John",democrat,1001732
+2008,Colorado,CO,"Obama, Barack H.",democrat,1288576
+2008,Colorado,CO,"McCain, John",republican,1073589
+2012,Colorado,CO,"Obama, Barack H.",democrat,1323101
+2012,Colorado,CO,"Romney, Mitt",republican,1185243
+2016,Colorado,CO,"Clinton, Hillary",democrat,1338870
+2016,Colorado,CO,"Trump, Donald J.",republican,1202484
+1976,Connecticut,CT,"Ford, Gerald",republican,719261
+1976,Connecticut,CT,"Carter, Jimmy",democrat,647895
+1980,Connecticut,CT,"Reagan, Ronald",republican,677210
+1980,Connecticut,CT,"Carter, Jimmy",democrat,541732
+1984,Connecticut,CT,"Reagan, Ronald",republican,890877
+1984,Connecticut,CT,"Mondale, Walter",democrat,569597
+1988,Connecticut,CT,"Bush, George H.W.",republican,750241
+1988,Connecticut,CT,"Dukakis, Michael",democrat,676584
+1992,Connecticut,CT,"Clinton, Bill",democrat,682318
+1992,Connecticut,CT,"Bush, George H.W.",republican,578313
+1996,Connecticut,CT,"Clinton, Bill",democrat,735740
+1996,Connecticut,CT,"Dole, Robert",republican,483109
+2000,Connecticut,CT,"Gore, Al",democrat,816015
+2000,Connecticut,CT,"Bush, George W.",republican,561094
+2004,Connecticut,CT,"Kerry, John",democrat,857488
+2004,Connecticut,CT,"Bush, George W.",republican,693826
+2008,Connecticut,CT,"Obama, Barack H.",democrat,997772
+2008,Connecticut,CT,"McCain, John",republican,629428
+2012,Connecticut,CT,"Obama, Barack H.",democrat,905083
+2012,Connecticut,CT,"Romney, Mitt",republican,634892
+2016,Connecticut,CT,"Clinton, Hillary",democrat,897572
+2016,Connecticut,CT,"Trump, Donald J.",republican,673215
+1976,Delaware,DE,"Carter, Jimmy",democrat,122461
+1976,Delaware,DE,"Ford, Gerald",republican,109780
+1980,Delaware,DE,"Reagan, Ronald",republican,111252
+1980,Delaware,DE,"Carter, Jimmy",democrat,105754
+1984,Delaware,DE,"Reagan, Ronald",republican,152190
+1984,Delaware,DE,"Mondale, Walter",democrat,101656
+1988,Delaware,DE,"Bush, George H.W.",republican,139639
+1988,Delaware,DE,"Dukakis, Michael",democrat,108647
+1992,Delaware,DE,"Clinton, Bill",democrat,126054
+1992,Delaware,DE,"Bush, George H.W.",republican,102313
+1996,Delaware,DE,"Clinton, Bill",democrat,140355
+1996,Delaware,DE,"Dole, Robert",republican,99062
+2000,Delaware,DE,"Gore, Al",democrat,180068
+2000,Delaware,DE,"Bush, George W.",republican,137288
+2004,Delaware,DE,"Kerry, John",democrat,200152
+2004,Delaware,DE,"Bush, George W.",republican,171660
+2008,Delaware,DE,"Obama, Barack H.",democrat,255459
+2008,Delaware,DE,"McCain, John",republican,152374
+2012,Delaware,DE,"Obama, Barack H.",democrat,242584
+2012,Delaware,DE,"Romney, Mitt",republican,165484
+2016,Delaware,DE,"Clinton, Hillary",democrat,235603
+2016,Delaware,DE,"Trump, Donald J.",republican,185127
+1976,District of Columbia,DC,"Carter, Jimmy",democrat,137818
+1976,District of Columbia,DC,"Ford, Gerald",republican,27873
+1980,District of Columbia,DC,"Carter, Jimmy",democrat,130231
+1980,District of Columbia,DC,"Reagan, Ronald",republican,23313
+1984,District of Columbia,DC,"Mondale, Walter",democrat,180408
+1984,District of Columbia,DC,"Reagan, Ronald",republican,29009
+1988,District of Columbia,DC,"Dukakis, Michael",democrat,159407
+1988,District of Columbia,DC,"Bush, George H.W.",republican,27590
+1992,District of Columbia,DC,"Clinton, Bill",democrat,192619
+1992,District of Columbia,DC,"Bush, George H.W.",republican,20698
+1996,District of Columbia,DC,"Clinton, Bill",democrat,158220
+1996,District of Columbia,DC,"Dole, Robert",republican,17339
+2000,District of Columbia,DC,"Gore, Al",democrat,171923
+2000,District of Columbia,DC,"Bush, George W.",republican,18073
+2004,District of Columbia,DC,"Kerry, John",democrat,202970
+2004,District of Columbia,DC,"Bush, George W.",republican,21256
+2008,District of Columbia,DC,"Obama, Barack H.",democrat,245800
+2008,District of Columbia,DC,"McCain, John",republican,17367
+2012,District of Columbia,DC,"Obama, Barack H.",democrat,267070
+2012,District of Columbia,DC,"Romney, Mitt",republican,21381
+2016,District of Columbia,DC,"Clinton, Hillary",democrat,282830
+2016,District of Columbia,DC,"Trump, Donald J.",republican,12723
+1976,Florida,FL,"Carter, Jimmy",democrat,1636000
+1976,Florida,FL,"Ford, Gerald",republican,1469531
+1980,Florida,FL,"Reagan, Ronald",republican,2046951
+1980,Florida,FL,"Carter, Jimmy",democrat,1419475
+1984,Florida,FL,"Reagan, Ronald",republican,2730350
+1984,Florida,FL,"Mondale, Walter",democrat,1448816
+1988,Florida,FL,"Bush, George H.W.",republican,2618885
+1988,Florida,FL,"Dukakis, Michael",democrat,1656701
+1992,Florida,FL,"Bush, George H.W.",republican,2173310
+1992,Florida,FL,"Clinton, Bill",democrat,2071698
+1996,Florida,FL,"Clinton, Bill",democrat,2546870
+1996,Florida,FL,"Dole, Robert",republican,2244536
+2000,Florida,FL,"Bush, George W.",republican,2912790
+2000,Florida,FL,"Gore, Al",democrat,2912253
+2004,Florida,FL,"Bush, George W.",republican,3964522
+2004,Florida,FL,"Kerry, John",democrat,3583544
+2008,Florida,FL,"Obama, Barack H.",democrat,4282074
+2008,Florida,FL,"McCain, John",republican,4045624
+2012,Florida,FL,"Obama, Barack H.",democrat,4237756
+2012,Florida,FL,"Romney, Mitt",republican,4163447
+2016,Florida,FL,"Trump, Donald J.",republican,4617886
+2016,Florida,FL,"Clinton, Hillary",democrat,4504975
+1976,Georgia,GA,"Carter, Jimmy",democrat,979409
+1976,Georgia,GA,"Ford, Gerald",republican,483743
+1980,Georgia,GA,"Carter, Jimmy",democrat,890955
+1980,Georgia,GA,"Reagan, Ronald",republican,654168
+1984,Georgia,GA,"Reagan, Ronald",republican,1068722
+1984,Georgia,GA,"Mondale, Walter",democrat,706628
+1988,Georgia,GA,"Bush, George H.W.",republican,1081331
+1988,Georgia,GA,"Dukakis, Michael",democrat,714792
+1992,Georgia,GA,"Clinton, Bill",democrat,1008966
+1992,Georgia,GA,"Bush, George H.W.",republican,995252
+1996,Georgia,GA,"Dole, Robert",republican,1080843
+1996,Georgia,GA,"Clinton, Bill",democrat,1053849
+2000,Georgia,GA,"Bush, George W.",republican,1419720
+2000,Georgia,GA,"Gore, Al",democrat,1116230
+2004,Georgia,GA,"Bush, George W.",republican,1914254
+2004,Georgia,GA,"Kerry, John",democrat,1366149
+2008,Georgia,GA,"McCain, John",republican,2048759
+2008,Georgia,GA,"Obama, Barack H.",democrat,1844123
+2012,Georgia,GA,"Romney, Mitt",republican,2078688
+2012,Georgia,GA,"Obama, Barack H.",democrat,1773827
+2016,Georgia,GA,"Trump, Donald J.",republican,2089104
+2016,Georgia,GA,"Clinton, Hillary",democrat,1877963
+1976,Hawaii,HI,"Carter, Jimmy",democrat,147375
+1976,Hawaii,HI,"Ford, Gerald",republican,140003
+1980,Hawaii,HI,"Carter, Jimmy",democrat,135879
+1980,Hawaii,HI,"Reagan, Ronald",republican,130112
+1984,Hawaii,HI,"Reagan, Ronald",republican,185050
+1984,Hawaii,HI,"Mondale, Walter",democrat,147154
+1988,Hawaii,HI,"Dukakis, Michael",democrat,192364
+1988,Hawaii,HI,"Bush, George H.W.",republican,158625
+1992,Hawaii,HI,"Clinton, Bill",democrat,179310
+1992,Hawaii,HI,"Bush, George H.W.",republican,136822
+1996,Hawaii,HI,"Clinton, Bill",democrat,205012
+1996,Hawaii,HI,"Dole, Robert",republican,113943
+2000,Hawaii,HI,"Gore, Al",democrat,205286
+2000,Hawaii,HI,"Bush, George W.",republican,137845
+2004,Hawaii,HI,"Kerry, John",democrat,231708
+2004,Hawaii,HI,"Bush, George W.",republican,194191
+2008,Hawaii,HI,"Obama, Barack H.",democrat,325871
+2008,Hawaii,HI,"McCain, John",republican,120566
+2012,Hawaii,HI,"Obama, Barack H.",democrat,306658
+2012,Hawaii,HI,"Romney, Mitt",republican,121015
+2016,Hawaii,HI,"Clinton, Hillary",democrat,266891
+2016,Hawaii,HI,"Trump, Donald J.",republican,128847
+1976,Idaho,ID,"Ford, Gerald",republican,204151
+1976,Idaho,ID,"Carter, Jimmy",democrat,126549
+1980,Idaho,ID,"Reagan, Ronald",republican,290699
+1980,Idaho,ID,"Carter, Jimmy",democrat,110192
+1984,Idaho,ID,"Reagan, Ronald",republican,297523
+1984,Idaho,ID,"Mondale, Walter",democrat,108510
+1988,Idaho,ID,"Bush, George H.W.",republican,253881
+1988,Idaho,ID,"Dukakis, Michael",democrat,147272
+1992,Idaho,ID,"Bush, George H.W.",republican,202645
+1992,Idaho,ID,"Clinton, Bill",democrat,137013
+1996,Idaho,ID,"Dole, Robert",republican,256595
+1996,Idaho,ID,"Clinton, Bill",democrat,165443
+2000,Idaho,ID,"Bush, George W.",republican,336937
+2000,Idaho,ID,"Gore, Al",democrat,138637
+2004,Idaho,ID,"Bush, George W.",republican,409235
+2004,Idaho,ID,"Kerry, John",democrat,181098
+2008,Idaho,ID,"McCain, John",republican,403012
+2008,Idaho,ID,"Obama, Barack H.",democrat,236440
+2012,Idaho,ID,"Romney, Mitt",republican,420911
+2012,Idaho,ID,"Obama, Barack H.",democrat,212787
+2016,Idaho,ID,"Trump, Donald J.",republican,409055
+2016,Idaho,ID,"Clinton, Hillary",democrat,189765
+1976,Illinois,IL,"Ford, Gerald",republican,2364269
+1976,Illinois,IL,"Carter, Jimmy",democrat,2271295
+1980,Illinois,IL,"Reagan, Ronald",republican,2358049
+1980,Illinois,IL,"Carter, Jimmy",democrat,1981413
+1984,Illinois,IL,"Reagan, Ronald",republican,2707103
+1984,Illinois,IL,"Mondale, Walter",democrat,2086499
+1988,Illinois,IL,"Bush, George H.W.",republican,2310939
+1988,Illinois,IL,"Dukakis, Michael",democrat,2215940
+1992,Illinois,IL,"Clinton, Bill",democrat,2453350
+1992,Illinois,IL,"Bush, George H.W.",republican,1734096
+1996,Illinois,IL,"Clinton, Bill",democrat,2341744
+1996,Illinois,IL,"Dole, Robert",republican,1587021
+2000,Illinois,IL,"Gore, Al",democrat,2589026
+2000,Illinois,IL,"Bush, George W.",republican,2019421
+2004,Illinois,IL,"Kerry, John",democrat,2891550
+2004,Illinois,IL,"Bush, George W.",republican,2345946
+2008,Illinois,IL,"Obama, Barack H.",democrat,3419348
+2008,Illinois,IL,"McCain, John",republican,2031179
+2012,Illinois,IL,"Obama, Barack H.",democrat,3019512
+2012,Illinois,IL,"Romney, Mitt",republican,2135216
+2016,Illinois,IL,"Clinton, Hillary",democrat,3090729
+2016,Illinois,IL,"Trump, Donald J.",republican,2146015
+1976,Indiana,IN,"Ford, Gerald",republican,1183958
+1976,Indiana,IN,"Carter, Jimmy",democrat,1014714
+1980,Indiana,IN,"Reagan, Ronald",republican,1255656
+1980,Indiana,IN,"Carter, Jimmy",democrat,844197
+1984,Indiana,IN,"Reagan, Ronald",republican,1377230
+1984,Indiana,IN,"Mondale, Walter",democrat,841481
+1988,Indiana,IN,"Bush, George H.W.",republican,1297763
+1988,Indiana,IN,"Dukakis, Michael",democrat,860643
+1992,Indiana,IN,"Bush, George H.W.",republican,989375
+1992,Indiana,IN,"Clinton, Bill",democrat,848420
+1996,Indiana,IN,"Dole, Robert",republican,1006693
+1996,Indiana,IN,"Clinton, Bill",democrat,887424
+2000,Indiana,IN,"Bush, George W.",republican,1245836
+2000,Indiana,IN,"Gore, Al",democrat,901980
+2004,Indiana,IN,"Bush, George W.",republican,1479438
+2004,Indiana,IN,"Kerry, John",democrat,969011
+2008,Indiana,IN,"Obama, Barack H.",democrat,1374039
+2008,Indiana,IN,"McCain, John",republican,1345648
+2012,Indiana,IN,"Romney, Mitt",republican,1420543
+2012,Indiana,IN,"Obama, Barack H.",democrat,1152887
+2016,Indiana,IN,"Trump, Donald J.",republican,1557286
+2016,Indiana,IN,"Clinton, Hillary",democrat,1033126
+1976,Iowa,IA,"Ford, Gerald",republican,632864
+1976,Iowa,IA,"Carter, Jimmy",democrat,619931
+1980,Iowa,IA,"Reagan, Ronald",republican,676026
+1980,Iowa,IA,"Carter, Jimmy",democrat,508672
+1984,Iowa,IA,"Reagan, Ronald",republican,703088
+1984,Iowa,IA,"Mondale, Walter",democrat,605620
+1988,Iowa,IA,"Dukakis, Michael",democrat,670557
+1988,Iowa,IA,"Bush, George H.W.",republican,545355
+1992,Iowa,IA,"Clinton, Bill",democrat,586353
+1992,Iowa,IA,"Bush, George H.W.",republican,504891
+1996,Iowa,IA,"Clinton, Bill",democrat,620258
+1996,Iowa,IA,"Dole, Robert",republican,492644
+2000,Iowa,IA,"Gore, Al",democrat,638517
+2000,Iowa,IA,"Bush, George W.",republican,634373
+2004,Iowa,IA,"Bush, George W.",republican,751957
+2004,Iowa,IA,"Kerry, John",democrat,741898
+2008,Iowa,IA,"Obama, Barack H.",democrat,828940
+2008,Iowa,IA,"McCain, John",republican,682379
+2012,Iowa,IA,"Obama, Barack H.",democrat,822544
+2012,Iowa,IA,"Romney, Mitt",republican,730617
+2016,Iowa,IA,"Trump, Donald J.",republican,800983
+2016,Iowa,IA,"Clinton, Hillary",democrat,653669
+1976,Kansas,KS,"Ford, Gerald",republican,502752
+1976,Kansas,KS,"Carter, Jimmy",democrat,430421
+1980,Kansas,KS,"Reagan, Ronald",republican,566812
+1980,Kansas,KS,"Carter, Jimmy",democrat,326150
+1984,Kansas,KS,"Reagan, Ronald",republican,677296
+1984,Kansas,KS,"Mondale, Walter",democrat,333149
+1988,Kansas,KS,"Bush, George H.W.",republican,554049
+1988,Kansas,KS,"Dukakis, Michael",democrat,422636
+1992,Kansas,KS,"Bush, George H.W.",republican,449951
+1992,Kansas,KS,"Clinton, Bill",democrat,390434
+1996,Kansas,KS,"Dole, Robert",republican,583245
+1996,Kansas,KS,"Clinton, Bill",democrat,387659
+2000,Kansas,KS,"Bush, George W.",republican,622332
+2000,Kansas,KS,"Gore, Al",democrat,399276
+2004,Kansas,KS,"Bush, George W.",republican,736456
+2004,Kansas,KS,"Kerry, John",democrat,434993
+2008,Kansas,KS,"McCain, John",republican,699655
+2008,Kansas,KS,"Obama, Barack H.",democrat,514765
+2012,Kansas,KS,"Romney, Mitt",republican,692634
+2012,Kansas,KS,"Obama, Barack H.",democrat,440726
+2016,Kansas,KS,"Trump, Donald J.",republican,671018
+2016,Kansas,KS,"Clinton, Hillary",democrat,427005
+1976,Kentucky,KY,"Carter, Jimmy",democrat,615717
+1976,Kentucky,KY,"Ford, Gerald",republican,531852
+1980,Kentucky,KY,"Reagan, Ronald",republican,635274
+1980,Kentucky,KY,"Carter, Jimmy",democrat,617417
+1984,Kentucky,KY,"Reagan, Ronald",republican,821702
+1984,Kentucky,KY,"Mondale, Walter",democrat,539539
+1988,Kentucky,KY,"Bush, George H.W.",republican,734281
+1988,Kentucky,KY,"Dukakis, Michael",democrat,580368
+1992,Kentucky,KY,"Clinton, Bill",democrat,665104
+1992,Kentucky,KY,"Bush, George H.W.",republican,617178
+1996,Kentucky,KY,"Clinton, Bill",democrat,636614
+1996,Kentucky,KY,"Dole, Robert",republican,623283
+2000,Kentucky,KY,"Bush, George W.",republican,872520
+2000,Kentucky,KY,"Gore, Al",democrat,638923
+2004,Kentucky,KY,"Bush, George W.",republican,1069439
+2004,Kentucky,KY,"Kerry, John",democrat,712733
+2008,Kentucky,KY,"McCain, John",republican,1048462
+2008,Kentucky,KY,"Obama, Barack H.",democrat,751985
+2012,Kentucky,KY,"Romney, Mitt",republican,1087190
+2012,Kentucky,KY,"Obama, Barack H.",democrat,679370
+2016,Kentucky,KY,"Trump, Donald J.",republican,1202971
+2016,Kentucky,KY,"Clinton, Hillary",democrat,628854
+1976,Louisiana,LA,"Carter, Jimmy",democrat,661365
+1976,Louisiana,LA,"Ford, Gerald",republican,587446
+1980,Louisiana,LA,"Reagan, Ronald",republican,792853
+1980,Louisiana,LA,"Carter, Jimmy",democrat,708453
+1984,Louisiana,LA,"Reagan, Ronald",republican,1037299
+1984,Louisiana,LA,"Mondale, Walter",democrat,651586
+1988,Louisiana,LA,"Bush, George H.W.",republican,883702
+1988,Louisiana,LA,"Dukakis, Michael",democrat,717460
+1992,Louisiana,LA,"Clinton, Bill",democrat,815971
+1992,Louisiana,LA,"Bush, George H.W.",republican,733386
+1996,Louisiana,LA,"Clinton, Bill",democrat,927837
+1996,Louisiana,LA,"Dole, Robert",republican,712586
+2000,Louisiana,LA,"Bush, George W.",republican,927871
+2000,Louisiana,LA,"Gore, Al",democrat,792344
+2004,Louisiana,LA,"Bush, George W.",republican,1102169
+2004,Louisiana,LA,"Kerry, John",democrat,820299
+2008,Louisiana,LA,"McCain, John",republican,1148275
+2008,Louisiana,LA,"Obama, Barack H.",democrat,782989
+2012,Louisiana,LA,"Romney, Mitt",republican,1152262
+2012,Louisiana,LA,"Obama, Barack H.",democrat,809141
+2016,Louisiana,LA,"Trump, Donald J.",republican,1178638
+2016,Louisiana,LA,"Clinton, Hillary",democrat,780154
+1976,Maine,ME,"Ford, Gerald",republican,236320
+1976,Maine,ME,"Carter, Jimmy",democrat,232279
+1980,Maine,ME,"Reagan, Ronald",republican,238522
+1980,Maine,ME,"Carter, Jimmy",democrat,220974
+1984,Maine,ME,"Reagan, Ronald",republican,336500
+1984,Maine,ME,"Mondale, Walter",democrat,214515
+1988,Maine,ME,"Bush, George H.W.",republican,307131
+1988,Maine,ME,"Dukakis, Michael",democrat,243569
+1992,Maine,ME,"Clinton, Bill",democrat,263420
+1992,Maine,ME,"Bush, George H.W.",republican,206504
+1996,Maine,ME,"Clinton, Bill",democrat,312788
+1996,Maine,ME,"Dole, Robert",republican,186378
+2000,Maine,ME,"Gore, Al",democrat,319951
+2000,Maine,ME,"Bush, George W.",republican,286616
+2004,Maine,ME,"Kerry, John",democrat,396842
+2004,Maine,ME,"Bush, George W.",republican,330201
+2008,Maine,ME,"Obama, Barack H.",democrat,421923
+2008,Maine,ME,"McCain, John",republican,295273
+2012,Maine,ME,"Obama, Barack H.",democrat,401306
+2012,Maine,ME,"Romney, Mitt",republican,292276
+2016,Maine,ME,"Clinton, Hillary",democrat,357735
+2016,Maine,ME,"Trump, Donald J.",republican,335593
+1976,Maryland,MD,"Carter, Jimmy",democrat,759612
+1976,Maryland,MD,"Ford, Gerald",republican,672661
+1980,Maryland,MD,"Carter, Jimmy",democrat,726161
+1980,Maryland,MD,"Reagan, Ronald",republican,680606
+1984,Maryland,MD,"Reagan, Ronald",republican,879918
+1984,Maryland,MD,"Mondale, Walter",democrat,787935
+1988,Maryland,MD,"Bush, George H.W.",republican,876167
+1988,Maryland,MD,"Dukakis, Michael",democrat,826304
+1992,Maryland,MD,"Clinton, Bill",democrat,988571
+1992,Maryland,MD,"Bush, George H.W.",republican,707094
+1996,Maryland,MD,"Clinton, Bill",democrat,966207
+1996,Maryland,MD,"Dole, Robert",republican,681530
+2000,Maryland,MD,"Gore, Al",democrat,1144008
+2000,Maryland,MD,"Bush, George W.",republican,813827
+2004,Maryland,MD,"Kerry, John",democrat,1334493
+2004,Maryland,MD,"Bush, George W.",republican,1024703
+2004,Maryland,MD,Other,democrat,7
+2008,Maryland,MD,"Obama, Barack H.",democrat,1629467
+2008,Maryland,MD,"McCain, John",republican,959862
+2012,Maryland,MD,"Obama, Barack H.",democrat,1677844
+2012,Maryland,MD,"Romney, Mitt",republican,971869
+2016,Maryland,MD,"Clinton, Hillary",democrat,1677928
+2016,Maryland,MD,"Trump, Donald J.",republican,943169
+2016,Maryland,MD,"Trump, Donald J.",republican,259
+2016,Maryland,MD,"Clinton, Hillary",democrat,78
+1976,Massachusetts,MA,"Carter, Jimmy",democrat,1429475
+1976,Massachusetts,MA,"Ford, Gerald",republican,1030276
+1980,Massachusetts,MA,"Reagan, Ronald",republican,1057631
+1980,Massachusetts,MA,"Carter, Jimmy",democrat,1053802
+1984,Massachusetts,MA,"Reagan, Ronald",republican,1310936
+1984,Massachusetts,MA,"Mondale, Walter",democrat,1239606
+1988,Massachusetts,MA,"Dukakis, Michael",democrat,1401415
+1988,Massachusetts,MA,"Bush, George H.W.",republican,1194635
+1992,Massachusetts,MA,"Clinton, Bill",democrat,1318639
+1992,Massachusetts,MA,"Bush, George H.W.",republican,805039
+1996,Massachusetts,MA,"Clinton, Bill",democrat,1571509
+1996,Massachusetts,MA,"Dole, Robert",republican,718058
+2000,Massachusetts,MA,"Gore, Al",democrat,1616487
+2000,Massachusetts,MA,"Bush, George W.",republican,878502
+2004,Massachusetts,MA,"Kerry, John",democrat,1803800
+2004,Massachusetts,MA,"Bush, George W.",republican,1071109
+2008,Massachusetts,MA,"Obama, Barack H.",democrat,1904097
+2008,Massachusetts,MA,"McCain, John",republican,1108854
+2012,Massachusetts,MA,"Obama, Barack H.",democrat,1921290
+2012,Massachusetts,MA,"Romney, Mitt",republican,1188314
+2016,Massachusetts,MA,"Clinton, Hillary",democrat,1995196
+2016,Massachusetts,MA,"Trump, Donald J.",republican,1090893
+1976,Michigan,MI,"Ford, Gerald",republican,1893742
+1976,Michigan,MI,"Carter, Jimmy",democrat,1696714
+1980,Michigan,MI,"Reagan, Ronald",republican,1915225
+1980,Michigan,MI,"Carter, Jimmy",democrat,1661532
+1984,Michigan,MI,"Reagan, Ronald",republican,2251571
+1984,Michigan,MI,"Mondale, Walter",democrat,1529638
+1988,Michigan,MI,"Bush, George H.W.",republican,1965486
+1988,Michigan,MI,"Dukakis, Michael",democrat,1675783
+1992,Michigan,MI,"Clinton, Bill",democrat,1871182
+1992,Michigan,MI,"Bush, George H.W.",republican,1554940
+1996,Michigan,MI,"Clinton, Bill",democrat,1989653
+1996,Michigan,MI,"Dole, Robert",republican,1481212
+2000,Michigan,MI,"Gore, Al",democrat,2170418
+2000,Michigan,MI,"Bush, George W.",republican,1953139
+2004,Michigan,MI,"Kerry, John",democrat,2479183
+2004,Michigan,MI,"Bush, George W.",republican,2313746
+2008,Michigan,MI,"Obama, Barack H.",democrat,2872579
+2008,Michigan,MI,"McCain, John",republican,2048639
+2012,Michigan,MI,"Obama, Barack H.",democrat,2564569
+2012,Michigan,MI,"Romney, Mitt",republican,2115256
+2016,Michigan,MI,"Trump, Donald J.",republican,2279543
+2016,Michigan,MI,"Clinton, Hillary",democrat,2268839
+1976,Minnesota,MN,"Carter, Jimmy",democrat,1070440
+1976,Minnesota,MN,"Ford, Gerald",republican,819395
+1980,Minnesota,MN,"Carter, Jimmy",democrat,954173
+1980,Minnesota,MN,"Reagan, Ronald",republican,873268
+1984,Minnesota,MN,"Mondale, Walter",democrat,1036364
+1984,Minnesota,MN,"Reagan, Ronald",republican,1032603
+1988,Minnesota,MN,"Dukakis, Michael",democrat,1109471
+1988,Minnesota,MN,"Bush, George H.W.",republican,962337
+1992,Minnesota,MN,"Clinton, Bill",democrat,1020997
+1992,Minnesota,MN,"Bush, George H.W.",republican,747841
+1996,Minnesota,MN,"Clinton, Bill",democrat,1120380
+1996,Minnesota,MN,"Dole, Robert",republican,766395
+2000,Minnesota,MN,"Gore, Al",democrat,1168266
+2000,Minnesota,MN,"Bush, George W.",republican,1109659
+2004,Minnesota,MN,"Kerry, John",democrat,1445014
+2004,Minnesota,MN,"Bush, George W.",republican,1346695
+2008,Minnesota,MN,"Obama, Barack H.",democrat,1573354
+2008,Minnesota,MN,"McCain, John",republican,1275409
+2012,Minnesota,MN,"Obama, Barack H.",democrat,1546167
+2012,Minnesota,MN,"Romney, Mitt",republican,1320225
+2016,Minnesota,MN,"Clinton, Hillary",democrat,1367705
+2016,Minnesota,MN,"Trump, Donald J.",republican,1322949
+1976,Mississippi,MS,"Carter, Jimmy",democrat,381329
+1976,Mississippi,MS,"Ford, Gerald",republican,366846
+1980,Mississippi,MS,"Reagan, Ronald",republican,441089
+1980,Mississippi,MS,"Carter, Jimmy",democrat,429281
+1984,Mississippi,MS,"Reagan, Ronald",republican,582377
+1984,Mississippi,MS,"Mondale, Walter",democrat,352192
+1988,Mississippi,MS,"Bush, George H.W.",republican,557890
+1988,Mississippi,MS,"Dukakis, Michael",democrat,363921
+1992,Mississippi,MS,"Bush, George H.W.",republican,487793
+1992,Mississippi,MS,"Clinton, Bill",democrat,400258
+1996,Mississippi,MS,"Dole, Robert",republican,439838
+1996,Mississippi,MS,"Clinton, Bill",democrat,394022
+2000,Mississippi,MS,"Bush, George W.",republican,572844
+2000,Mississippi,MS,"Gore, Al",democrat,404614
+2004,Mississippi,MS,"Bush, George W.",republican,672660
+2004,Mississippi,MS,"Kerry, John",democrat,457766
+2008,Mississippi,MS,"McCain, John",republican,724597
+2008,Mississippi,MS,"Obama, Barack H.",democrat,554662
+2012,Mississippi,MS,"Romney, Mitt",republican,710746
+2012,Mississippi,MS,"Obama, Barack H.",democrat,562949
+2016,Mississippi,MS,"Trump, Donald J.",republican,700714
+2016,Mississippi,MS,"Clinton, Hillary",democrat,485131
+1976,Missouri,MO,"Carter, Jimmy",democrat,998387
+1976,Missouri,MO,"Ford, Gerald",republican,927443
+1980,Missouri,MO,"Reagan, Ronald",republican,1074181
+1980,Missouri,MO,"Carter, Jimmy",democrat,931182
+1984,Missouri,MO,"Reagan, Ronald",republican,1274188
+1984,Missouri,MO,"Mondale, Walter",democrat,848583
+1988,Missouri,MO,"Bush, George H.W.",republican,1084953
+1988,Missouri,MO,"Dukakis, Michael",democrat,1001619
+1992,Missouri,MO,"Clinton, Bill",democrat,1053873
+1992,Missouri,MO,"Bush, George H.W.",republican,811159
+1996,Missouri,MO,"Clinton, Bill",democrat,1025935
+1996,Missouri,MO,"Dole, Robert",republican,890016
+2000,Missouri,MO,"Bush, George W.",republican,1189924
+2000,Missouri,MO,"Gore, Al",democrat,1111138
+2004,Missouri,MO,"Bush, George W.",republican,1455713
+2004,Missouri,MO,"Kerry, John",democrat,1259171
+2008,Missouri,MO,"McCain, John",republican,1445814
+2008,Missouri,MO,"Obama, Barack H.",democrat,1441911
+2012,Missouri,MO,"Romney, Mitt",republican,1482440
+2012,Missouri,MO,"Obama, Barack H.",democrat,1223796
+2016,Missouri,MO,"Trump, Donald J.",republican,1594511
+2016,Missouri,MO,"Clinton, Hillary",democrat,1071068
+1976,Montana,MT,"Ford, Gerald",republican,173703
+1976,Montana,MT,"Carter, Jimmy",democrat,149259
+1980,Montana,MT,"Reagan, Ronald",republican,206814
+1980,Montana,MT,"Carter, Jimmy",democrat,118032
+1984,Montana,MT,"Reagan, Ronald",republican,232450
+1984,Montana,MT,"Mondale, Walter",democrat,146742
+1988,Montana,MT,"Bush, George H.W.",republican,190412
+1988,Montana,MT,"Dukakis, Michael",democrat,168936
+1992,Montana,MT,"Clinton, Bill",democrat,154507
+1992,Montana,MT,"Bush, George H.W.",republican,144207
+1996,Montana,MT,"Dole, Robert",republican,179652
+1996,Montana,MT,"Clinton, Bill",democrat,167922
+2000,Montana,MT,"Bush, George W.",republican,240178
+2000,Montana,MT,"Gore, Al",democrat,137126
+2004,Montana,MT,"Bush, George W.",republican,266063
+2004,Montana,MT,"Kerry, John",democrat,173710
+2008,Montana,MT,"McCain, John",republican,242763
+2008,Montana,MT,"Obama, Barack H.",democrat,231667
+2012,Montana,MT,"Romney, Mitt",republican,267928
+2012,Montana,MT,"Obama, Barack H.",democrat,201839
+2016,Montana,MT,"Trump, Donald J.",republican,279240
+2016,Montana,MT,"Clinton, Hillary",democrat,177709
+1976,Nebraska,NE,"Ford, Gerald",republican,359219
+1976,Nebraska,NE,"Carter, Jimmy",democrat,233293
+1980,Nebraska,NE,"Reagan, Ronald",republican,419214
+1980,Nebraska,NE,"Carter, Jimmy",democrat,166424
+1984,Nebraska,NE,"Reagan, Ronald",republican,460054
+1984,Nebraska,NE,"Mondale, Walter",democrat,187866
+1988,Nebraska,NE,"Bush, George H.W.",republican,397956
+1988,Nebraska,NE,"Dukakis, Michael",democrat,259235
+1992,Nebraska,NE,"Bush, George H.W.",republican,343678
+1992,Nebraska,NE,"Clinton, Bill",democrat,216864
+1996,Nebraska,NE,"Dole, Robert",republican,363467
+1996,Nebraska,NE,"Clinton, Bill",democrat,236761
+2000,Nebraska,NE,"Bush, George W.",republican,433862
+2000,Nebraska,NE,"Gore, Al",democrat,231780
+2004,Nebraska,NE,"Bush, George W.",republican,512814
+2004,Nebraska,NE,"Kerry, John",democrat,254328
+2008,Nebraska,NE,"McCain, John",republican,452979
+2008,Nebraska,NE,"Obama, Barack H.",democrat,333319
+2012,Nebraska,NE,"Romney, Mitt",republican,475064
+2012,Nebraska,NE,"Obama, Barack H.",democrat,302081
+2016,Nebraska,NE,"Trump, Donald J.",republican,495961
+2016,Nebraska,NE,"Clinton, Hillary",democrat,284494
+1976,Nevada,NV,"Ford, Gerald",republican,101273
+1976,Nevada,NV,"Carter, Jimmy",democrat,92479
+1980,Nevada,NV,"Reagan, Ronald",republican,155017
+1980,Nevada,NV,"Carter, Jimmy",democrat,66666
+1984,Nevada,NV,"Reagan, Ronald",republican,188770
+1984,Nevada,NV,"Mondale, Walter",democrat,91655
+1988,Nevada,NV,"Bush, George H.W.",republican,206040
+1988,Nevada,NV,"Dukakis, Michael",democrat,132738
+1992,Nevada,NV,"Clinton, Bill",democrat,189148
+1992,Nevada,NV,"Bush, George H.W.",republican,175828
+1996,Nevada,NV,"Clinton, Bill",democrat,203974
+1996,Nevada,NV,"Dole, Robert",republican,199244
+2000,Nevada,NV,"Bush, George W.",republican,301575
+2000,Nevada,NV,"Gore, Al",democrat,279978
+2004,Nevada,NV,"Bush, George W.",republican,418690
+2004,Nevada,NV,"Kerry, John",democrat,397190
+2008,Nevada,NV,"Obama, Barack H.",democrat,533736
+2008,Nevada,NV,"McCain, John",republican,412827
+2012,Nevada,NV,"Obama, Barack H.",democrat,531373
+2012,Nevada,NV,"Romney, Mitt",republican,463567
+2016,Nevada,NV,"Clinton, Hillary",democrat,539260
+2016,Nevada,NV,"Trump, Donald J.",republican,512058
+1976,New Hampshire,NH,"Ford, Gerald",republican,185935
+1976,New Hampshire,NH,"Carter, Jimmy",democrat,147645
+1980,New Hampshire,NH,"Reagan, Ronald",republican,221705
+1980,New Hampshire,NH,"Carter, Jimmy",democrat,108864
+1984,New Hampshire,NH,"Reagan, Ronald",republican,267050
+1984,New Hampshire,NH,"Mondale, Walter",democrat,120347
+1988,New Hampshire,NH,"Bush, George H.W.",republican,281537
+1988,New Hampshire,NH,"Dukakis, Michael",democrat,163696
+1992,New Hampshire,NH,"Clinton, Bill",democrat,209040
+1992,New Hampshire,NH,"Bush, George H.W.",republican,202484
+1996,New Hampshire,NH,"Clinton, Bill",democrat,246166
+1996,New Hampshire,NH,"Dole, Robert",republican,196486
+2000,New Hampshire,NH,"Bush, George W.",republican,273559
+2000,New Hampshire,NH,"Gore, Al",democrat,266348
+2004,New Hampshire,NH,"Kerry, John",democrat,340511
+2004,New Hampshire,NH,"Bush, George W.",republican,331237
+2008,New Hampshire,NH,"Obama, Barack H.",democrat,384826
+2008,New Hampshire,NH,"McCain, John",republican,316534
+2012,New Hampshire,NH,"Obama, Barack H.",democrat,369561
+2012,New Hampshire,NH,"Romney, Mitt",republican,329918
+2016,New Hampshire,NH,"Clinton, Hillary",democrat,348526
+2016,New Hampshire,NH,"Trump, Donald J.",republican,345790
+1976,New Jersey,NJ,"Ford, Gerald",republican,1509688
+1976,New Jersey,NJ,"Carter, Jimmy",democrat,1444653
+1980,New Jersey,NJ,"Reagan, Ronald",republican,1546557
+1980,New Jersey,NJ,"Carter, Jimmy",democrat,1147364
+1984,New Jersey,NJ,"Reagan, Ronald",republican,1933630
+1984,New Jersey,NJ,"Mondale, Walter",democrat,1261323
+1988,New Jersey,NJ,"Bush, George H.W.",republican,1743192
+1988,New Jersey,NJ,"Dukakis, Michael",democrat,1320352
+1992,New Jersey,NJ,"Clinton, Bill",democrat,1436206
+1992,New Jersey,NJ,"Bush, George H.W.",republican,1356865
+1996,New Jersey,NJ,"Clinton, Bill",democrat,1652361
+1996,New Jersey,NJ,"Dole, Robert",republican,1103099
+2000,New Jersey,NJ,"Gore, Al",democrat,1788850
+2000,New Jersey,NJ,"Bush, George W.",republican,1284173
+2004,New Jersey,NJ,"Kerry, John",democrat,1911430
+2004,New Jersey,NJ,"Bush, George W.",republican,1670003
+2008,New Jersey,NJ,"Obama, Barack H.",democrat,2215422
+2008,New Jersey,NJ,"McCain, John",republican,1613207
+2012,New Jersey,NJ,"Obama, Barack H.",democrat,2122786
+2012,New Jersey,NJ,"Romney, Mitt",republican,1478088
+2016,New Jersey,NJ,"Clinton, Hillary",democrat,2148278
+2016,New Jersey,NJ,"Trump, Donald J.",republican,1601933
+1976,New Mexico,NM,"Ford, Gerald",republican,211419
+1976,New Mexico,NM,"Carter, Jimmy",democrat,201148
+1980,New Mexico,NM,"Reagan, Ronald",republican,250779
+1980,New Mexico,NM,"Carter, Jimmy",democrat,167826
+1984,New Mexico,NM,"Reagan, Ronald",republican,307101
+1984,New Mexico,NM,"Mondale, Walter",democrat,201769
+1988,New Mexico,NM,"Bush, George H.W.",republican,270341
+1988,New Mexico,NM,"Dukakis, Michael",democrat,244497
+1992,New Mexico,NM,"Clinton, Bill",democrat,261617
+1992,New Mexico,NM,"Bush, George H.W.",republican,212824
+1996,New Mexico,NM,"Clinton, Bill",democrat,273495
+1996,New Mexico,NM,"Dole, Robert",republican,232751
+2000,New Mexico,NM,"Gore, Al",democrat,286783
+2000,New Mexico,NM,"Bush, George W.",republican,286417
+2004,New Mexico,NM,"Bush, George W.",republican,376930
+2004,New Mexico,NM,"Kerry, John",democrat,370942
+2008,New Mexico,NM,"Obama, Barack H.",democrat,472422
+2008,New Mexico,NM,"McCain, John",republican,346832
+2012,New Mexico,NM,"Obama, Barack H.",democrat,415335
+2012,New Mexico,NM,"Romney, Mitt",republican,335788
+2016,New Mexico,NM,"Clinton, Hillary",democrat,385234
+2016,New Mexico,NM,"Trump, Donald J.",republican,319667
+1976,New York,NY,"Carter, Jimmy",democrat,3244165
+1976,New York,NY,"Ford, Gerald",republican,2825913
+1980,New York,NY,"Carter, Jimmy",democrat,2728372
+1980,New York,NY,"Reagan, Ronald",republican,2637700
+1984,New York,NY,"Reagan, Ronald",republican,3376519
+1984,New York,NY,"Mondale, Walter",democrat,3001285
+1988,New York,NY,"Dukakis, Michael",democrat,3255487
+1988,New York,NY,"Bush, George H.W.",republican,2838414
+1992,New York,NY,"Clinton, Bill",democrat,3346894
+1992,New York,NY,"Bush, George H.W.",republican,2041690
+1996,New York,NY,"Clinton, Bill",democrat,3649630
+1996,New York,NY,"Dole, Robert",republican,1738707
+2000,New York,NY,"Gore, Al",democrat,3942215
+2000,New York,NY,"Bush, George W.",republican,2258577
+2004,New York,NY,"Kerry, John",democrat,4180755
+2004,New York,NY,"Bush, George W.",republican,2806993
+2008,New York,NY,"Obama, Barack H.",democrat,4645332
+2008,New York,NY,"McCain, John",republican,2418323
+2012,New York,NY,"Obama, Barack H.",democrat,4324228
+2012,New York,NY,"Romney, Mitt",republican,2223397
+2016,New York,NY,"Clinton, Hillary",democrat,4379789
+2016,New York,NY,"Trump, Donald J.",republican,2527142
+1976,North Carolina,NC,"Carter, Jimmy",democrat,927365
+1976,North Carolina,NC,"Ford, Gerald",republican,741960
+1980,North Carolina,NC,"Reagan, Ronald",republican,915018
+1980,North Carolina,NC,"Carter, Jimmy",democrat,875635
+1984,North Carolina,NC,"Reagan, Ronald",republican,1346481
+1984,North Carolina,NC,"Mondale, Walter",democrat,824287
+1988,North Carolina,NC,"Bush, George H.W.",republican,1237258
+1988,North Carolina,NC,"Dukakis, Michael",democrat,890167
+1992,North Carolina,NC,"Bush, George H.W.",republican,1134661
+1992,North Carolina,NC,"Clinton, Bill",democrat,1114042
+1996,North Carolina,NC,"Dole, Robert",republican,1225938
+1996,North Carolina,NC,"Clinton, Bill",democrat,1107849
+2000,North Carolina,NC,"Bush, George W.",republican,1631163
+2000,North Carolina,NC,"Gore, Al",democrat,1257692
+2004,North Carolina,NC,"Bush, George W.",republican,1961166
+2004,North Carolina,NC,"Kerry, John",democrat,1525849
+2008,North Carolina,NC,"Obama, Barack H.",democrat,2142651
+2008,North Carolina,NC,"McCain, John",republican,2128474
+2012,North Carolina,NC,"Romney, Mitt",republican,2270395
+2012,North Carolina,NC,"Obama, Barack H.",democrat,2178391
+2016,North Carolina,NC,"Trump, Donald J.",republican,2362631
+2016,North Carolina,NC,"Clinton, Hillary",democrat,2189316
+1976,North Dakota,ND,"Ford, Gerald",republican,153684
+1976,North Dakota,ND,"Carter, Jimmy",democrat,136078
+1980,North Dakota,ND,"Reagan, Ronald",republican,193695
+1980,North Dakota,ND,"Carter, Jimmy",democrat,79189
+1984,North Dakota,ND,"Reagan, Ronald",republican,200336
+1984,North Dakota,ND,"Mondale, Walter",democrat,104429
+1988,North Dakota,ND,"Bush, George H.W.",republican,166559
+1988,North Dakota,ND,"Dukakis, Michael",democrat,127739
+1992,North Dakota,ND,"Bush, George H.W.",republican,136244
+1992,North Dakota,ND,"Clinton, Bill",democrat,99168
+1996,North Dakota,ND,"Dole, Robert",republican,125050
+1996,North Dakota,ND,"Clinton, Bill",democrat,106905
+2000,North Dakota,ND,"Bush, George W.",republican,174852
+2000,North Dakota,ND,"Gore, Al",democrat,95284
+2004,North Dakota,ND,"Bush, George W.",republican,196651
+2004,North Dakota,ND,"Kerry, John",democrat,111052
+2008,North Dakota,ND,"McCain, John",republican,168601
+2008,North Dakota,ND,"Obama, Barack H.",democrat,141278
+2012,North Dakota,ND,"Romney, Mitt",republican,188320
+2012,North Dakota,ND,"Obama, Barack H.",democrat,124966
+2016,North Dakota,ND,"Trump, Donald J.",republican,216794
+2016,North Dakota,ND,"Clinton, Hillary",democrat,93758
+1976,Ohio,OH,"Carter, Jimmy",democrat,2009959
+1976,Ohio,OH,"Ford, Gerald",republican,2000626
+1980,Ohio,OH,"Reagan, Ronald",republican,2206545
+1980,Ohio,OH,"Carter, Jimmy",democrat,1752414
+1984,Ohio,OH,"Reagan, Ronald",republican,2678559
+1984,Ohio,OH,"Mondale, Walter",democrat,1825440
+1988,Ohio,OH,"Bush, George H.W.",republican,2416549
+1988,Ohio,OH,"Dukakis, Michael",democrat,1939629
+1992,Ohio,OH,"Clinton, Bill",democrat,1984942
+1992,Ohio,OH,"Bush, George H.W.",republican,1894310
+1996,Ohio,OH,"Clinton, Bill",democrat,2148222
+1996,Ohio,OH,"Dole, Robert",republican,1859883
+2000,Ohio,OH,"Bush, George W.",republican,2350363
+2000,Ohio,OH,"Gore, Al",democrat,2183628
+2004,Ohio,OH,"Bush, George W.",republican,2859764
+2004,Ohio,OH,"Kerry, John",democrat,2741165
+2008,Ohio,OH,"Obama, Barack H.",democrat,2940044
+2008,Ohio,OH,"McCain, John",republican,2677820
+2012,Ohio,OH,"Obama, Barack H.",democrat,2827621
+2012,Ohio,OH,"Romney, Mitt",republican,2661407
+2016,Ohio,OH,"Trump, Donald J.",republican,2841005
+2016,Ohio,OH,"Clinton, Hillary",democrat,2394164
+1976,Oklahoma,OK,"Ford, Gerald",republican,545708
+1976,Oklahoma,OK,"Carter, Jimmy",democrat,532442
+1980,Oklahoma,OK,"Reagan, Ronald",republican,695570
+1980,Oklahoma,OK,"Carter, Jimmy",democrat,402026
+1984,Oklahoma,OK,"Reagan, Ronald",republican,861530
+1984,Oklahoma,OK,"Mondale, Walter",democrat,385080
+1988,Oklahoma,OK,"Bush, George H.W.",republican,678367
+1988,Oklahoma,OK,"Dukakis, Michael",democrat,483423
+1992,Oklahoma,OK,"Bush, George H.W.",republican,592929
+1992,Oklahoma,OK,"Clinton, Bill",democrat,473066
+1996,Oklahoma,OK,"Dole, Robert",republican,582315
+1996,Oklahoma,OK,"Clinton, Bill",democrat,488105
+2000,Oklahoma,OK,"Bush, George W.",republican,744337
+2000,Oklahoma,OK,"Gore, Al",democrat,474276
+2004,Oklahoma,OK,"Bush, George W.",republican,959792
+2004,Oklahoma,OK,"Kerry, John",democrat,503966
+2008,Oklahoma,OK,"McCain, John",republican,960165
+2008,Oklahoma,OK,"Obama, Barack H.",democrat,502496
+2012,Oklahoma,OK,"Romney, Mitt",republican,891325
+2012,Oklahoma,OK,"Obama, Barack H.",democrat,443547
+2016,Oklahoma,OK,"Trump, Donald J.",republican,949136
+2016,Oklahoma,OK,"Clinton, Hillary",democrat,420375
+1976,Oregon,OR,"Ford, Gerald",republican,492120
+1976,Oregon,OR,"Carter, Jimmy",democrat,490407
+1980,Oregon,OR,"Reagan, Ronald",republican,571044
+1980,Oregon,OR,"Carter, Jimmy",democrat,456890
+1984,Oregon,OR,"Reagan, Ronald",republican,685700
+1984,Oregon,OR,"Mondale, Walter",democrat,536479
+1988,Oregon,OR,"Dukakis, Michael",democrat,616206
+1988,Oregon,OR,"Bush, George H.W.",republican,560126
+1992,Oregon,OR,"Clinton, Bill",democrat,621314
+1992,Oregon,OR,"Bush, George H.W.",republican,475757
+1996,Oregon,OR,"Clinton, Bill",democrat,649641
+1996,Oregon,OR,"Dole, Robert",republican,538152
+2000,Oregon,OR,"Gore, Al",democrat,720342
+2000,Oregon,OR,"Bush, George W.",republican,713577
+2004,Oregon,OR,"Kerry, John",democrat,943163
+2004,Oregon,OR,"Bush, George W.",republican,866831
+2008,Oregon,OR,"Obama, Barack H.",democrat,1037291
+2008,Oregon,OR,"McCain, John",republican,738475
+2012,Oregon,OR,"Obama, Barack H.",democrat,970488
+2012,Oregon,OR,"Romney, Mitt",republican,754175
+2016,Oregon,OR,"Clinton, Hillary",democrat,1002106
+2016,Oregon,OR,"Trump, Donald J.",republican,782403
+1976,Pennsylvania,PA,"Carter, Jimmy",democrat,2328677
+1976,Pennsylvania,PA,"Ford, Gerald",republican,2205604
+1980,Pennsylvania,PA,"Reagan, Ronald",republican,2261872
+1980,Pennsylvania,PA,"Carter, Jimmy",democrat,1937540
+1984,Pennsylvania,PA,"Reagan, Ronald",republican,2584323
+1984,Pennsylvania,PA,"Mondale, Walter",democrat,2228131
+1988,Pennsylvania,PA,"Bush, George H.W.",republican,2300087
+1988,Pennsylvania,PA,"Dukakis, Michael",democrat,2194944
+1992,Pennsylvania,PA,"Clinton, Bill",democrat,2239164
+1992,Pennsylvania,PA,"Bush, George H.W.",republican,1791841
+1996,Pennsylvania,PA,"Clinton, Bill",democrat,2215819
+1996,Pennsylvania,PA,"Dole, Robert",republican,1801169
+2000,Pennsylvania,PA,"Gore, Al",democrat,2485967
+2000,Pennsylvania,PA,"Bush, George W.",republican,2281127
+2004,Pennsylvania,PA,"Kerry, John",democrat,2938095
+2004,Pennsylvania,PA,"Bush, George W.",republican,2793847
+2008,Pennsylvania,PA,"Obama, Barack H.",democrat,3276363
+2008,Pennsylvania,PA,"McCain, John",republican,2655885
+2012,Pennsylvania,PA,"Obama, Barack H.",democrat,2990274
+2012,Pennsylvania,PA,"Romney, Mitt",republican,2680434
+2016,Pennsylvania,PA,"Trump, Donald J.",republican,2970733
+2016,Pennsylvania,PA,"Clinton, Hillary",democrat,2926441
+1976,Rhode Island,RI,"Carter, Jimmy",democrat,227636
+1976,Rhode Island,RI,"Ford, Gerald",republican,181249
+1980,Rhode Island,RI,"Carter, Jimmy",democrat,198342
+1980,Rhode Island,RI,"Reagan, Ronald",republican,154793
+1984,Rhode Island,RI,"Reagan, Ronald",republican,212080
+1984,Rhode Island,RI,"Mondale, Walter",democrat,197106
+1988,Rhode Island,RI,"Dukakis, Michael",democrat,225123
+1988,Rhode Island,RI,"Bush, George H.W.",republican,177761
+1992,Rhode Island,RI,"Clinton, Bill",democrat,213299
+1992,Rhode Island,RI,"Bush, George H.W.",republican,131601
+1996,Rhode Island,RI,"Clinton, Bill",democrat,233050
+1996,Rhode Island,RI,"Dole, Robert",republican,104683
+2000,Rhode Island,RI,"Gore, Al",democrat,249508
+2000,Rhode Island,RI,"Bush, George W.",republican,130555
+2004,Rhode Island,RI,"Kerry, John",democrat,259760
+2004,Rhode Island,RI,"Bush, George W.",republican,169046
+2008,Rhode Island,RI,"Obama, Barack H.",democrat,296571
+2008,Rhode Island,RI,"McCain, John",republican,165391
+2012,Rhode Island,RI,"Obama, Barack H.",democrat,279677
+2012,Rhode Island,RI,"Romney, Mitt",republican,157204
+2016,Rhode Island,RI,"Clinton, Hillary",democrat,252525
+2016,Rhode Island,RI,"Trump, Donald J.",republican,180543
+1976,South Carolina,SC,"Carter, Jimmy",democrat,450807
+1976,South Carolina,SC,"Ford, Gerald",republican,346149
+1980,South Carolina,SC,"Reagan, Ronald",republican,439277
+1980,South Carolina,SC,"Carter, Jimmy",democrat,428220
+1984,South Carolina,SC,"Reagan, Ronald",republican,615539
+1984,South Carolina,SC,"Mondale, Walter",democrat,344459
+1988,South Carolina,SC,"Bush, George H.W.",republican,606443
+1988,South Carolina,SC,"Dukakis, Michael",democrat,370554
+1992,South Carolina,SC,"Bush, George H.W.",republican,577507
+1992,South Carolina,SC,"Clinton, Bill",democrat,525514
+1996,South Carolina,SC,"Dole, Robert",republican,573339
+1996,South Carolina,SC,"Clinton, Bill",democrat,506152
+2000,South Carolina,SC,"Bush, George W.",republican,786892
+2000,South Carolina,SC,"Gore, Al",democrat,566037
+2004,South Carolina,SC,"Bush, George W.",republican,937974
+2004,South Carolina,SC,"Kerry, John",democrat,661669
+2008,South Carolina,SC,"McCain, John",republican,1034896
+2008,South Carolina,SC,"Obama, Barack H.",democrat,862449
+2012,South Carolina,SC,"Romney, Mitt",republican,1071645
+2012,South Carolina,SC,"Obama, Barack H.",democrat,865941
+2016,South Carolina,SC,"Trump, Donald J.",republican,1155389
+2016,South Carolina,SC,"Clinton, Hillary",democrat,855373
+1976,South Dakota,SD,"Ford, Gerald",republican,151505
+1976,South Dakota,SD,"Carter, Jimmy",democrat,147068
+1980,South Dakota,SD,"Reagan, Ronald",republican,198343
+1980,South Dakota,SD,"Carter, Jimmy",democrat,103855
+1984,South Dakota,SD,"Reagan, Ronald",republican,200267
+1984,South Dakota,SD,"Mondale, Walter",democrat,116113
+1988,South Dakota,SD,"Bush, George H.W.",republican,165415
+1988,South Dakota,SD,"Dukakis, Michael",democrat,145560
+1992,South Dakota,SD,"Bush, George H.W.",republican,136718
+1992,South Dakota,SD,"Clinton, Bill",democrat,124888
+1996,South Dakota,SD,"Dole, Robert",republican,150543
+1996,South Dakota,SD,"Clinton, Bill",democrat,139333
+2000,South Dakota,SD,"Bush, George W.",republican,190700
+2000,South Dakota,SD,"Gore, Al",democrat,118804
+2004,South Dakota,SD,"Bush, George W.",republican,232584
+2004,South Dakota,SD,"Kerry, John",democrat,149244
+2008,South Dakota,SD,"McCain, John",republican,203054
+2008,South Dakota,SD,"Obama, Barack H.",democrat,170924
+2012,South Dakota,SD,"Romney, Mitt",republican,210610
+2012,South Dakota,SD,"Obama, Barack H.",democrat,145039
+2016,South Dakota,SD,"Trump, Donald J.",republican,227721
+2016,South Dakota,SD,"Clinton, Hillary",democrat,117458
+1976,Tennessee,TN,"Carter, Jimmy",democrat,825879
+1976,Tennessee,TN,"Ford, Gerald",republican,633969
+1980,Tennessee,TN,"Reagan, Ronald",republican,787761
+1980,Tennessee,TN,"Carter, Jimmy",democrat,783051
+1984,Tennessee,TN,"Reagan, Ronald",republican,990212
+1984,Tennessee,TN,"Mondale, Walter",democrat,711714
+1988,Tennessee,TN,"Bush, George H.W.",republican,947233
+1988,Tennessee,TN,"Dukakis, Michael",democrat,679794
+1992,Tennessee,TN,"Clinton, Bill",democrat,933521
+1992,Tennessee,TN,"Bush, George H.W.",republican,841300
+1996,Tennessee,TN,"Clinton, Bill",democrat,909146
+1996,Tennessee,TN,"Dole, Robert",republican,863530
+2000,Tennessee,TN,"Bush, George W.",republican,1061949
+2000,Tennessee,TN,"Gore, Al",democrat,981720
+2004,Tennessee,TN,"Bush, George W.",republican,1384375
+2004,Tennessee,TN,"Kerry, John",democrat,1036477
+2008,Tennessee,TN,"McCain, John",republican,1479178
+2008,Tennessee,TN,"Obama, Barack H.",democrat,1087437
+2012,Tennessee,TN,"Romney, Mitt",republican,1462330
+2012,Tennessee,TN,"Obama, Barack H.",democrat,960709
+2016,Tennessee,TN,"Trump, Donald J.",republican,1522925
+2016,Tennessee,TN,"Clinton, Hillary",democrat,870695
+1976,Texas,TX,"Carter, Jimmy",democrat,2082319
+1976,Texas,TX,"Ford, Gerald",republican,1953300
+1980,Texas,TX,"Reagan, Ronald",republican,2510705
+1980,Texas,TX,"Carter, Jimmy",democrat,1881147
+1984,Texas,TX,"Reagan, Ronald",republican,3433428
+1984,Texas,TX,"Mondale, Walter",democrat,1949276
+1988,Texas,TX,"Bush, George H.W.",republican,3036829
+1988,Texas,TX,"Dukakis, Michael",democrat,2352748
+1992,Texas,TX,"Bush, George H.W.",republican,2496071
+1992,Texas,TX,"Clinton, Bill",democrat,2281815
+1996,Texas,TX,"Dole, Robert",republican,2736167
+1996,Texas,TX,"Clinton, Bill",democrat,2459683
+2000,Texas,TX,"Bush, George W.",republican,3799639
+2000,Texas,TX,"Gore, Al",democrat,2433746
+2004,Texas,TX,"Bush, George W.",republican,4526917
+2004,Texas,TX,"Kerry, John",democrat,2832704
+2008,Texas,TX,"McCain, John",republican,4479328
+2008,Texas,TX,"Obama, Barack H.",democrat,3528633
+2012,Texas,TX,"Romney, Mitt",republican,4569843
+2012,Texas,TX,"Obama, Barack H.",democrat,3308124
+2016,Texas,TX,"Trump, Donald J.",republican,4685047
+2016,Texas,TX,"Clinton, Hillary",democrat,3877868
+1976,Utah,UT,"Ford, Gerald",republican,337908
+1976,Utah,UT,"Carter, Jimmy",democrat,182110
+1980,Utah,UT,"Reagan, Ronald",republican,439687
+1980,Utah,UT,"Carter, Jimmy",democrat,124266
+1984,Utah,UT,"Reagan, Ronald",republican,469105
+1984,Utah,UT,"Mondale, Walter",democrat,155369
+1988,Utah,UT,"Bush, George H.W.",republican,428442
+1988,Utah,UT,"Dukakis, Michael",democrat,207343
+1992,Utah,UT,"Bush, George H.W.",republican,322632
+1992,Utah,UT,"Clinton, Bill",democrat,183429
+1996,Utah,UT,"Dole, Robert",republican,361911
+1996,Utah,UT,"Clinton, Bill",democrat,221633
+2000,Utah,UT,"Bush, George W.",republican,515096
+2000,Utah,UT,"Gore, Al",democrat,203053
+2004,Utah,UT,"Bush, George W.",republican,663742
+2004,Utah,UT,"Kerry, John",democrat,241199
+2008,Utah,UT,"McCain, John",republican,596030
+2008,Utah,UT,"Obama, Barack H.",democrat,327670
+2012,Utah,UT,"Romney, Mitt",republican,740600
+2012,Utah,UT,"Obama, Barack H.",democrat,251813
+2016,Utah,UT,"Trump, Donald J.",republican,515211
+2016,Utah,UT,"Clinton, Hillary",democrat,310674
+1976,Vermont,VT,"Ford, Gerald",republican,100387
+1976,Vermont,VT,"Carter, Jimmy",democrat,77798
+1980,Vermont,VT,"Reagan, Ronald",republican,94628
+1980,Vermont,VT,"Carter, Jimmy",democrat,81952
+1984,Vermont,VT,"Reagan, Ronald",republican,135865
+1984,Vermont,VT,"Mondale, Walter",democrat,95730
+1988,Vermont,VT,"Bush, George H.W.",republican,124331
+1988,Vermont,VT,"Dukakis, Michael",democrat,115775
+1992,Vermont,VT,"Clinton, Bill",democrat,133592
+1992,Vermont,VT,"Bush, George H.W.",republican,88122
+1996,Vermont,VT,"Clinton, Bill",democrat,137894
+1996,Vermont,VT,"Dole, Robert",republican,80352
+2000,Vermont,VT,"Gore, Al",democrat,149022
+2000,Vermont,VT,"Bush, George W.",republican,119775
+2004,Vermont,VT,"Kerry, John",democrat,184067
+2004,Vermont,VT,"Bush, George W.",republican,121180
+2008,Vermont,VT,"Obama, Barack H.",democrat,219262
+2008,Vermont,VT,"McCain, John",republican,98974
+2012,Vermont,VT,"Obama, Barack H.",democrat,199239
+2012,Vermont,VT,"Romney, Mitt",republican,92698
+2016,Vermont,VT,"Clinton, Hillary",democrat,178573
+2016,Vermont,VT,"Trump, Donald J.",republican,95369
+1976,Virginia,VA,"Ford, Gerald",republican,836554
+1976,Virginia,VA,"Carter, Jimmy",democrat,813896
+1980,Virginia,VA,"Reagan, Ronald",republican,989609
+1980,Virginia,VA,"Carter, Jimmy",democrat,752174
+1984,Virginia,VA,"Reagan, Ronald",republican,1337078
+1984,Virginia,VA,"Mondale, Walter",democrat,796250
+1988,Virginia,VA,"Bush, George H.W.",republican,1309162
+1988,Virginia,VA,"Dukakis, Michael",democrat,859799
+1992,Virginia,VA,"Bush, George H.W.",republican,1150517
+1992,Virginia,VA,"Clinton, Bill",democrat,1038650
+1996,Virginia,VA,"Dole, Robert",republican,1138350
+1996,Virginia,VA,"Clinton, Bill",democrat,1091060
+2000,Virginia,VA,"Bush, George W.",republican,1437490
+2000,Virginia,VA,"Gore, Al",democrat,1217290
+2004,Virginia,VA,"Bush, George W.",republican,1716959
+2004,Virginia,VA,"Kerry, John",democrat,1454742
+2008,Virginia,VA,"Obama, Barack H.",democrat,1959532
+2008,Virginia,VA,"McCain, John",republican,1725005
+2012,Virginia,VA,"Obama, Barack H.",democrat,1971820
+2012,Virginia,VA,"Romney, Mitt",republican,1822522
+2016,Virginia,VA,"Clinton, Hillary",democrat,1981473
+2016,Virginia,VA,"Trump, Donald J.",republican,1769443
+1976,Washington,WA,"Ford, Gerald",republican,777732
+1976,Washington,WA,"Carter, Jimmy",democrat,717323
+1980,Washington,WA,"Reagan, Ronald",republican,865244
+1980,Washington,WA,"Carter, Jimmy",democrat,650193
+1984,Washington,WA,"Reagan, Ronald",republican,1051670
+1984,Washington,WA,"Mondale, Walter",democrat,798352
+1988,Washington,WA,"Dukakis, Michael",democrat,933516
+1988,Washington,WA,"Bush, George H.W.",republican,903835
+1992,Washington,WA,"Clinton, Bill",democrat,993037
+1992,Washington,WA,"Bush, George H.W.",republican,731234
+1996,Washington,WA,"Clinton, Bill",democrat,1123323
+1996,Washington,WA,"Dole, Robert",republican,840712
+2000,Washington,WA,"Gore, Al",democrat,1247652
+2000,Washington,WA,"Bush, George W.",republican,1108864
+2004,Washington,WA,"Kerry, John",democrat,1510201
+2004,Washington,WA,"Bush, George W.",republican,1304894
+2008,Washington,WA,"Obama, Barack H.",democrat,1750848
+2008,Washington,WA,"McCain, John",republican,1229216
+2012,Washington,WA,"Obama, Barack H.",democrat,1755396
+2012,Washington,WA,"Mitt, Romney",republican,1290670
+2016,Washington,WA,"Clinton, Hillary",democrat,1742718
+2016,Washington,WA,"Trump, Donald J.",republican,1221747
+1976,West Virginia,WV,"Carter, Jimmy",democrat,435864
+1976,West Virginia,WV,"Ford, Gerald",republican,314726
+1980,West Virginia,WV,"Carter, Jimmy",democrat,367462
+1980,West Virginia,WV,"Reagan, Ronald",republican,334206
+1984,West Virginia,WV,"Reagan, Ronald",republican,405483
+1984,West Virginia,WV,"Mondale, Walter",democrat,328125
+1988,West Virginia,WV,"Dukakis, Michael",democrat,341016
+1988,West Virginia,WV,"Bush, George H.W.",republican,310065
+1992,West Virginia,WV,"Clinton, Bill",democrat,331001
+1992,West Virginia,WV,"Bush, George H.W.",republican,241974
+1996,West Virginia,WV,"Clinton, Bill",democrat,327812
+1996,West Virginia,WV,"Dole, Robert",republican,233946
+2000,West Virginia,WV,"Bush, George W.",republican,336475
+2000,West Virginia,WV,"Gore, Al",democrat,295497
+2004,West Virginia,WV,"Bush, George W.",republican,423778
+2004,West Virginia,WV,"Kerry, John",democrat,326541
+2008,West Virginia,WV,"McCain, John",republican,397466
+2008,West Virginia,WV,"Obama, Barack H.",democrat,303857
+2012,West Virginia,WV,"Romney, Mitt",republican,417655
+2012,West Virginia,WV,"Obama, Barack H.",democrat,238269
+2016,West Virginia,WV,"Trump, Donald J.",republican,489371
+2016,West Virginia,WV,"Clinton, Hillary",democrat,188794
+1976,Wisconsin,WI,"Carter, Jimmy",democrat,1040232
+1976,Wisconsin,WI,"Ford, Gerald",republican,1004987
+1980,Wisconsin,WI,"Reagan, Ronald",republican,1088845
+1980,Wisconsin,WI,"Carter, Jimmy",democrat,981584
+1984,Wisconsin,WI,"Reagan, Ronald",republican,1198584
+1984,Wisconsin,WI,"Mondale, Walter",democrat,995740
+1988,Wisconsin,WI,"Dukakis, Michael",democrat,1126794
+1988,Wisconsin,WI,"Bush, George H.W.",republican,1047499
+1992,Wisconsin,WI,"Clinton, Bill",democrat,1041066
+1992,Wisconsin,WI,"Bush, George H.W.",republican,930855
+1996,Wisconsin,WI,"Clinton, Bill",democrat,1071971
+1996,Wisconsin,WI,"Dole, Robert",republican,845029
+2000,Wisconsin,WI,"Gore, Al",democrat,1242987
+2000,Wisconsin,WI,"Bush, George W.",republican,1237279
+2004,Wisconsin,WI,"Kerry, John",democrat,1489504
+2004,Wisconsin,WI,"Bush, George W.",republican,1478120
+2008,Wisconsin,WI,"Obama, Barack H.",democrat,1677211
+2008,Wisconsin,WI,"McCain, John",republican,1262393
+2012,Wisconsin,WI,"Obama, Barack H.",democrat,1620985
+2012,Wisconsin,WI,"Romney, Mitt",republican,1410966
+2016,Wisconsin,WI,"Trump, Donald J.",republican,1405284
+2016,Wisconsin,WI,"Clinton, Hillary",democrat,1382536
+1976,Wyoming,WY,"Ford, Gerald",republican,92717
+1976,Wyoming,WY,"Carter, Jimmy",democrat,62239
+1980,Wyoming,WY,"Reagan, Ronald",republican,110700
+1980,Wyoming,WY,"Carter, Jimmy",democrat,49427
+1984,Wyoming,WY,"Reagan, Ronald",republican,133241
+1984,Wyoming,WY,"Mondale, Walter",democrat,53370
+1988,Wyoming,WY,"Bush, George H.W.",republican,106867
+1988,Wyoming,WY,"Dukakis, Michael",democrat,67113
+1992,Wyoming,WY,"Bush, George H.W.",republican,79347
+1992,Wyoming,WY,"Clinton, Bill",democrat,68160
+1996,Wyoming,WY,"Dole, Robert",republican,105388
+1996,Wyoming,WY,"Clinton, Bill",democrat,77934
+2000,Wyoming,WY,"Bush, George W.",republican,147947
+2000,Wyoming,WY,"Gore, Al",democrat,60481
+2004,Wyoming,WY,"Bush, George W.",republican,167629
+2004,Wyoming,WY,"Kerry, John",democrat,70776
+2008,Wyoming,WY,"McCain, John",republican,164958
+2008,Wyoming,WY,"Obama, Barack H.",democrat,82868
+2012,Wyoming,WY,"Romney, Mitt",republican,170962
+2012,Wyoming,WY,"Obama, Barack H.",democrat,69286
+2016,Wyoming,WY,"Trump, Donald J.",republican,174419
+2016,Wyoming,WY,"Clinton, Hillary",democrat,55973
