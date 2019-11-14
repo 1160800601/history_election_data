@@ -6,13 +6,15 @@ from ghost import Ghost, Session
 import re
 import time
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 STATES = ['national', 'arizona', 'california', 'colorado', 'florida',
           'georgia', 'illinois', 'indiana', 'iowa', 'kentucky',
           'maine', 'michigan', 'minnesota', 'missouri', 'nevada',
           'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina',
           'ohio', 'oregon', 'pennsylvania', 'south carolina', 'texas',
           'utah', 'virginia', 'washington', 'wisconsin']
-
 
 
 
@@ -59,7 +61,16 @@ def s4():
     location4 = 0
 
     driver.get('https://edition.cnn.com/election/2016/results/exit-polls/arizona/president')
-    parse_list(driver)
+
+    driver.implicitly_wait(10)
+
+    html4 = driver.page_source
+
+    soup4 = BeautifulSoup(html4, features='lxml')
+    poll__cell = soup4.find_all('td', {"class": "exit-poll__cell"})
+    for cell in poll__cell:
+        print(cell.get_text())
+
 
 
 def parse_list(driver):
