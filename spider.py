@@ -67,12 +67,32 @@ def s4():
     html4 = driver.page_source
 
     soup4 = BeautifulSoup(html4, features='lxml')
+
     poll__cell = soup4.find_all('td', {"class": "exit-poll__cell"})
+    poll__cell_array = []
+    for cell in poll__cell:
+        poll__cell_array.append(cell.get_text())
+
+    questions = soup4.find_all('h3', {"class": "exit-poll__question"})
+    questions_array = []
+    for question in questions:
+        questions_array.append(question.get_text())
+
+    headers = soup4.find_all('th', {"class": "exit-poll__cell--header"})
+    headers_array = []
+    for header in headers:
+        headers_array.append(header.get_text())
+
+    answers = soup4.find_all('td', {"class": "exit-poll__cell exit-poll__cell--answer"})
+    answers_array = []
+    for answer in answers:
+        answers_array.append(answer.get_text())
+
     for cell in poll__cell:
         print(cell.get_text())
 
 
-
+# https://blog.csdn.net/oChangWen/article/details/51959754
 def parse_list(driver):
     divs = driver.find_elements_by_class_name('exit-poll__cell')
     print(divs)
