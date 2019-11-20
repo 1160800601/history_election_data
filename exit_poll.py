@@ -32,6 +32,9 @@ class exit_poll:
         plt.ylim(-0.5, 0.5)
         plt.plot([2006, 2018], [0, 0], 'r--')
         plt.xticks([2008, 2012, 2016])
+        plt.yticks([])
+        plt.xlabel('year')
+        plt.ylabel("republican                          democrat")
         for i in range(4):
             plt.plot(YEARS, arr[i], COLORS[i], label=AGE_VALUES[i])
             plt.plot(YEARS, arr[i], 'ko')
@@ -56,6 +59,9 @@ class exit_poll:
         plt.ylim(-0.5, 0.5)
         plt.plot([2006, 2018], [0, 0], 'r--')
         plt.xticks([2008, 2012, 2016])
+        plt.yticks([])
+        plt.xlabel('year')
+        plt.ylabel("republican                          democrat")
         for i in range(2):
             plt.plot(YEARS, arr[i], COLORS[i], label=GENDER_VALUES[i])
             plt.plot(YEARS, arr[i], 'ko')
@@ -80,6 +86,9 @@ class exit_poll:
         plt.ylim(-0.5, 0.5)
         plt.plot([2006, 2018], [0, 0], 'r--')
         plt.xticks([2008, 2012, 2016])
+        plt.yticks([])
+        plt.xlabel('year')
+        plt.ylabel("republican                          democrat")
         for i in range(4):
             plt.plot(YEARS, arr[i], COLORS[i], label=EDU_VALUES[i])
             plt.plot(YEARS, arr[i], 'ko')
@@ -104,6 +113,9 @@ class exit_poll:
         plt.ylim(-0.5, 0.5)
         plt.plot([2006, 2018], [0, 0], 'r--')
         plt.xticks([2008, 2012, 2016])
+        plt.yticks([])
+        plt.xlabel('year')
+        plt.ylabel("republican                          democrat")
         for i in range(3):
             plt.plot(YEARS, arr[i], COLORS[i], label=INCOME_VALUES[i])
             plt.plot(YEARS, arr[i], 'ko')
@@ -113,10 +125,11 @@ class exit_poll:
         plt.savefig(save_path)
 
 ep = exit_poll()
+# ep.plot_income("National")
 # ep.plot_age('National')
-for state in STATES:
-    # ep.plot_age(state)
-    # ep.plot_gender(state)
+for state in ['Pennsylvania']:
+    ep.plot_age(state)
+    ep.plot_gender(state)
     ep.plot_edu(state)
     ep.plot_income(state)
 print()
