@@ -2,62 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9cb8b0-4037-4624-ac08-0253ff46dd15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/exit_poll.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exit_poll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fig_new.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_age_Arizona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_age_California.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_age_National.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_edu_Arizona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_edu_California.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_gender_Arizona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_gender_California.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_gender_National.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_income_Arizona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_income_California.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/his_feature/by_income_National.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.243_Wyoming.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.243_Wyoming.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.278_West Virginia.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.278_West Virginia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.302_North Dakota.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.302_North Dakota.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.307_Oklahoma.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.307_Oklahoma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.317_Idaho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.317_Idaho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.343_Kentucky.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.343_Kentucky.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.34_South Dakota.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.34_South Dakota.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.356_Alabama.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.356_Alabama.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.357_Arkansas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.357_Arkansas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.364_Tennessee.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.364_Tennessee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.365_Nebraska.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.365_Nebraska.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.376_Utah.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.376_Utah.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.389_Kansas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.389_Kansas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.389_Montana.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.389_Montana.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.398_Louisiana.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.398_Louisiana.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.399_Indiana.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.399_Indiana.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.402_Missouri.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.402_Missouri.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.409_Mississippi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.409_Mississippi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.416_Alaska.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.416_Alaska.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.425_South Carolina.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.425_South Carolina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.449_Iowa.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.449_Iowa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.453_Texas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.453_Texas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.457_Ohio.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.457_Ohio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.473_Georgia.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.473_Georgia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.481_Arizona.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.481_Arizona.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.481_North Carolina.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.481_North Carolina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.494_Florida.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.494_Florida.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.496_Pennsylvania.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.496_Pennsylvania.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.496_Wisconsin.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.496_Wisconsin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.499_Michigan.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.499_Michigan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.502_New Hampshire.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.502_New Hampshire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.508_Minnesota.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.508_Minnesota.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.513_Nevada.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.513_Nevada.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.516_Maine.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.516_Maine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.527_Colorado.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.527_Colorado.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.528_Virginia.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.528_Virginia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.547_New Mexico.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.547_New Mexico.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.562_Oregon.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.562_Oregon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.56_Delaware.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.56_Delaware.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.571_Connecticut.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.571_Connecticut.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.573_New Jersey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.573_New Jersey.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.583_Rhode Island.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.583_Rhode Island.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.588_Washington.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.588_Washington.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.59_Illinois.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.59_Illinois.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.634_New York.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.634_New York.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.647_Massachusetts.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.647_Massachusetts.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.64_Maryland.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.64_Maryland.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.652_Vermont.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.652_Vermont.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.661_California.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.661_California.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.674_Hawaii.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.674_Hawaii.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig_new/0.957_District of Columbia.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig_new/0.957_District of Columbia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exit_poll.py" beforeDir="false" afterPath="$PROJECT_DIR$/exit_poll.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,13 +175,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exit_poll.py</url>
-          <line>46</line>
+          <line>121</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exit_poll.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
