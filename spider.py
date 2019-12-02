@@ -57,9 +57,6 @@ def s4():
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
 
-    count4 = 0
-    location4 = 0
-
     driver.get('https://edition.cnn.com/election/2016/results/exit-polls/arizona/president')
 
     driver.implicitly_wait(10)
@@ -91,10 +88,61 @@ def s4():
     for cell in poll__cell:
         print(cell.get_text())
 
+def save_html(url, filename):
+    driver = webdriver.Chrome()
+    driver.get(url)
+    page = input("input")
+    html = driver.page_source
+    with open("html/"+filename+'.html', 'a', encoding='utf-8') as f:
+        f.write(html)
+
+
+def s5():
+    driver = webdriver.Chrome()
+    driver.implicitly_wait(10)
+    driver.get('https://edition.cnn.com/election/2012/results/race/president/#exit-polls')
+    driver.implicitly_wait(10)
+
+    html4 = driver.page_source
+
+    soup4 = BeautifulSoup(html4, features='lxml')
+
+    question_titles = soup4.find_all(name='div', attrs={"class": "ep_title"})
+    question_titles_array = []
+    for quest_title in question_titles:
+        question_titles_array.append(quest_title.get_text())
+    print(question_titles_array)
+
+def s6():
+    html6 = open("html/2012/2012_national.html", 'rb')
+    soup6 = BeautifulSoup(html6, features='lxml')
+
+    question_titles = soup6.find_all(name='div', attrs={"class": "ep_title"})
+    question_titles_array = []
+    for quest_title in question_titles:
+        question_titles_array.append(quest_title.get_text())
+    print(question_titles_array)
+
+def s7():
+    file_name = "2008_nation"
+    for i in range(1, 8):
+        url = "https://edition.cnn.com/ELECTION/2008/results/polls/#val=USP00p" + str(i)
+        save_html(url, file_name)
+
+def s8():
+    html8 = open("html/2008_nation.html", 'rb')
+    soup8 = BeautifulSoup(html8, features='lxml')
+    quest = soup8.find_all(name='div', attrs={"class": "cnnElex_pageLSubT"})
+
+def s9():
+    html9 = open("html/FL_EP_2012.mhtml", 'rb')
+    soup9 = BeautifulSoup(html9, features='lxml')
+    quest9 = soup9.find_all(name='div', attrs={"class": "ep_title"})
+    print("1")
 
 # https://blog.csdn.net/oChangWen/article/details/51959754
 def parse_list(driver):
     divs = driver.find_elements_by_class_name('exit-poll__cell')
     print(divs)
 
-s4()
+s9()

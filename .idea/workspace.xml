@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9cb8b0-4037-4624-ac08-0253ff46dd15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/2008_nation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/2012_national.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Alabama.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Arizona.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/California.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Colorado.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Connecticut.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Florida.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Illinois.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Indiana.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Iowa.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Kansas.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Maine.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Maryland.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Massachusetts.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Minnesota.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Mississippi.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Missouri.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Montana.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Nevada.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/New Hampshire.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/New Jersey.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/New Mexico.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/New York.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/North Carolina.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Ohio.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Oregon.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Pennsylvania.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Presidential Race.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Vermont.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Virginia.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Washington.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/2012/Wisconsin.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rename.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exit_poll">
+  <component name="RunManager" selected="Python.rename">
     <configuration name="exit_poll" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="history_election_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +120,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="history_election_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="history_election_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,9 +164,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rename" />
+        <item itemvalue="Python.spider" />
         <item itemvalue="Python.exit_poll" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.spider" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +215,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/spider.py</url>
-          <line>90</line>
+          <line>87</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -169,6 +227,21 @@
           <url>file://$PROJECT_DIR$/exit_poll.py</url>
           <line>131</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
